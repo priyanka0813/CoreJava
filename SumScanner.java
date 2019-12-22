@@ -1,4 +1,4 @@
-//method area ->stores class code code of the methods and variables
+//method area ->stores class code, code of the methods and variables
 //heap area->java objects are created in this area
 //java stack-> while running the methods the results are stored in the stack memory
 //Program Counter register-> this contain the address of the istruction of the methods
